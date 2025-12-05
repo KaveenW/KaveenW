@@ -1,11 +1,13 @@
-# 💫 About Me:
+Hi there, I'm Kaveen 👋
 
-I am a highly adaptable **Software Engineering Graduate** focused on building robust applications at the intersection of **Full-Stack Development** and **Applied Artificial Intelligence**.
+---
 
-* 🎓 &nbsp; Recently graduated from the **University of Central Lancashire (UCLan)**.
-* 💻 &nbsp; Currently deepening my expertise in the **MERN/T-Stack** ecosystem, focusing on **Next.js** and advanced **TypeScript** patterns.
-* 🧠 &nbsp; Leveraging academic background in **Machine Learning** and **NLP** to build intelligent, data-driven features (check out my **Emotion Detection Chatbot** project!).
-* 💡 &nbsp; Always seeking new challenges and passionate about contributing to open-source or collaborative team environments.
+## 💫 About Me
+
+* 🎓 &nbsp; I'm a recent **Software Engineering Graduate** focused on **Full-Stack Development** and **Applied AI**.
+* 💻 &nbsp; I'm currently deepening my expertise in the **Next.js** framework and advanced **TypeScript** patterns.
+* 💬 &nbsp; Ask me about **Full-Stack development (React, Node.js)**, **Machine Learning fundamentals**, and the software development lifecycle.
+* 📫 &nbsp; How to reach me: **kaveenwu19@gmail.com**
 
 
 ## 🌐 Socials:
