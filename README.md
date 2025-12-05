@@ -6,7 +6,7 @@
 * 🎓 &nbsp; I'm a recent **Software Engineering Graduate** focused on **Full-Stack Development** and **Applied AI**.
 * 💻 &nbsp; I'm currently deepening my expertise in the **Next.js** framework and advanced **TypeScript** patterns.
 * 💬 &nbsp; Ask me about **Full-Stack development (React, Node.js)**, **Machine Learning fundamentals**, and the software development lifecycle.
-* 📫 &nbsp; How to reach me: **kaveenwu19@gmail.com**
+* 📫 &nbsp; How to reach me: **kaveenw19@gmail.com**
 
 
 ## 🌐 Socials:
