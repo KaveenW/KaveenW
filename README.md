@@ -3,9 +3,10 @@
 
 ## 💫 About Me
 
-* 🎓 &nbsp; I'm a recent **Software Engineering Graduate** focused on **Full-Stack Development** and **Applied AI**.
-* 💻 &nbsp; I'm currently deepening my expertise in the **React** framework and advanced **Javascript** patterns.
-* 💬 &nbsp; Ask me about **Full-Stack development (React, Node.js)**, **Machine Learning fundamentals**, and the software development lifecycle.
+* 🎓 &nbsp; I'm a **Software Engineering Graduate** focused on **Full-Stack Enterprise Development** and **Applied AI**.
+* 💻 &nbsp; I'm currently architecting robust backends using **Java** and **Spring Boot (Spring Data JPA, Hibernate)**, while pairing them with modern **React** frontends.
+* 🛡️ &nbsp; Deeply interested in building **production-ready APIs** focused on clean architecture, secure data validation, global exception handling, and relational database modeling.
+* 💬 &nbsp; Ask me about **Java/Spring Boot ecosystems**, **Full-Stack architecture (React, Node.js)**, and **Machine Learning fundamentals**.
 * 📫 &nbsp; How to reach me: **kaveenw19@gmail.com**
 
 
