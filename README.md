@@ -1,7 +1,7 @@
 # Hi there, I'm Kaveen 👋
 
 
-## 💫 About M
+## 💫 About Me
 
 * 🎓 &nbsp; I'm a **Software Engineering Graduate** focused on **Full-Stack Enterprise Development** and **Applied AI**.
 * 💻 &nbsp; I'm currently architecting robust backends using **Java** and **Spring Boot (Spring Data JPA, Hibernate)**, while pairing them with modern **React** frontends.
