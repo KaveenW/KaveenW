@@ -3,10 +3,11 @@
 
 ## 💫 About Me
 
-* 🎓 &nbsp; I'm a **Software Engineering Graduate** focused on **Full-Stack Enterprise Development** and **Applied AI**.
-* 💻 &nbsp; I'm currently architecting robust backends using **Java** and **Spring Boot (Spring Data JPA, Hibernate)**, while pairing them with modern **React** frontends.
-* 🛡️ &nbsp; Deeply interested in building **production-ready APIs** focused on clean architecture, secure data validation, global exception handling, and relational database modeling.
-* 💬 &nbsp; Ask me about **Java/Spring Boot ecosystems**, **Full-Stack architecture (React, Node.js)**, and **Machine Learning fundamentals**.
+* 🎓 &nbsp; I'm a **Software Engineering Graduate** focused on **Backend Engineering, Enterprise Software, and Systems**.
+* ☕ &nbsp; I'm currently building production-oriented backends with **Java, Spring Boot, Spring Data JPA, Hibernate, and PostgreSQL**.
+* 🏗️ &nbsp; I'm focused on developing **scalable REST APIs, clean architecture, secure applications, database-driven systems, and reliable backend services**.
+* ⚙️ &nbsp; I'm also expanding into **Linux, networking, Docker, DevOps, cloud infrastructure, and automation** to bridge software engineering with systems engineering.
+* 💬 &nbsp; Ask me about **Java/Spring Boot, backend engineering, REST APIs, PostgreSQL, software architecture, and systems/infrastructure**.
 * 📫 &nbsp; How to reach me: **kaveenw19@gmail.com**
 
 
